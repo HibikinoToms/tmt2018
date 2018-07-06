@@ -1,2 +1,5 @@
 # tmt2018
-This is  Repository for 2018 year.
+HibikinoToms
+HibikinoToms program repository
+
+HibikinoToms用のリポジトリです。
